@@ -10,6 +10,8 @@ Contact email: xwzhengcn@163.com
 - Pre-train the lesion activation map generation network and save the weights
 ```python
 python pretrain.py
+```
 - Training and testing MFNWSL
 ```python
 python train_test.py
+```
