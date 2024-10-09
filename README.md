@@ -7,7 +7,7 @@ Framework diagram
 ## Dataset acquisition
 Data sharing is not applicable to this article due to medical data privacy. If you need the dataset, please contact the corresponding author.  
 Contact email: xwzhengcn@163.com
-## Pre-train lesion activation map generation network
+## Pre-training lesion activation map generation network
 - Create environment & install required packages
 - Prepare dataset folder (a parent directory containing three sub-folders '0', '1' and '2' like below):
 ```python
