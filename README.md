@@ -81,7 +81,9 @@ model=timm.create_model('xception',pretrained=True,num_classes=3)
 python evaluate.py
 ```
 ## Results
-Quantitative results
+Quantitative results  
 ![results](https://github.com/zhaohui-sdnu/MFNWSL/blob/main/docs/results.png)
-![Confusion Matrix](https://github.com/zhaohui-sdnu/MFNWSL/blob/main/docs/Confusion Matrix.png)
-![ROC](https://github.com/zhaohui-sdnu/MFNWSL/blob/main/docs/ROC.png)
+![Confusion Matrix](https://github.com/zhaohui-sdnu/MFNWSL/blob/main/docs/Confusion_Matrix.png)
+![ROC](https://github.com/zhaohui-sdnu/MFNWSL/blob/main/docs/ROC.png)  
+Visualization results  
+![Visualization results](https://github.com/zhaohui-sdnu/MFNWSL/blob/main/docs/Visualize.png)
